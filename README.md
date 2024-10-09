@@ -2,7 +2,7 @@
 
 ## PPLX-Proxy: Perplexity AI 代理服务
 
-这个仓库提供了一个代理服务，允许用户通过标准的 OpenAI API 格式访问 Perplexity AI 的 Claude 模型。和原版相比多添加了docker-compose文件，安全密钥，想用docker安装参考 [docker_use.md]
+这个仓库提供了一个代理服务，允许用户通过标准的 OpenAI API 格式访问 Perplexity AI 的 Claude 模型。和原版相比多添加了docker-compose文件，安全密钥，想用docker安装参考 [[docker_use.md]](https://github.com/h-mygit-f/pplx2api/blob/main/docker_use.md)
 
 ## 主要功能
 
