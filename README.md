@@ -1,6 +1,6 @@
 # 本仓库来源于 [Archeb/pplx-proxy (github.com)](https://github.com/Archeb/pplx-proxy) ，我只是在其基础上进行的简单修改。
 
-# PPLX-Proxy: Perplexity AI 代理服务
+## PPLX-Proxy: Perplexity AI 代理服务
 
 这个仓库提供了一个代理服务，允许用户通过标准的 OpenAI API 格式访问 Perplexity AI 的 Claude 模型。
 
