@@ -1,0 +1,13 @@
+version: '3'
+services:
+  pplx-proxy:
+    build: .
+    ports:
+      - "8081:8081"
+    environment:
+      - PORT=8081
+      - PPLX_COOKIE=${PPLX_COOKIE}
+      - USER_AGENT=${USER_AGENT}
+      - all_proxy=${all_proxy}
+      - API_TOKEN=${API_TOKEN}
+    restart: unless-stopped
